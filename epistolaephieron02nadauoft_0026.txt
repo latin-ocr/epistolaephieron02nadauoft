@@ -1,0 +1,122 @@
+ 
+
+NOTAE
+
+FREQUENTIUS IN Hoc OPERE USURPATAE
+EARUMQUE INTERPRET-ATIO
+
+annot . :annotatio .
+B.:Beatus.
+
+B. V. M.=Beata Vi’rgo Maria.
+cap.=caput. ·
+Cf.--.C0nfer.
+
+Cod.:Codex.
+
+D. Dnus.:Don, Dominus.
+D., vel Dr.:Doctor.
+
+D. V. P.-:De Vuestra Paternidad.
+e. g.=exempli gratia.
+
+fol . :folium .
+
+ff.:folia.
+
+Fr.::Frater.
+
+H.:Hermano.
+
+HH . :Hermanos .
+
+Ibid . :Ibidem .
+
+i. e...—-id est.
+
+in f.=in folio.
+
+lib.=liber.
+
+loc. eit.-.:loco citato.
+
+M., Mr. vel Mag.:Magister.
+M.0 vel M.ro=Maestro.
+
+ms. , mss.:manu scriptum, manu
+· scripta.
+
+N. P.=Nuestro Padre.
+
+N. S.=Nuestro Sefior.
+
+n ‚znumesus .
+
+nmmumeri.
+O. M.=Ordinis Minorum.
+O. Pr.‚ vel Ο. S. D.=Ordi'nis Prae-
+
+dicatorum, vel-Ordinis S. Domi-'
+
+ει.
+O.mS. B.ss0rdinis S. Benedicti.
+
+P . :Pater, Padr‘e.
+
+PP.=Patres‚ Padres.
+
+pag.=pagina. ’
+
+pagg-:paginam ,
+
+part. --parte.
+
+P. Μ. :Pontifex Maximus. ·’ .-
+
+R., RR. :Reverendus, Reverefidff
+
+R. P. T. :Reverendae Paterni ᾖ
+Tuae. ’ .
+
+R. P. V. :Reverendae Paternintik'
+Vestrae..
+S.=Sanctus.
+
+S. A.=Su Alteza.
+
+S. P.=Su Paternidad.
+
+SS. AA.=Sus Altezas. ’
+
+S. J.=Soeietatis Jesu.
+
+sc.=seilicet. ’
+
+seq. nequens.
+
+seqq. :sequentes.
+
+        
+
+S. R. E. :Sancta Romana Menas '
+’ Su Exc. ⁸=Su Excelencia. ·- »
+
+Su S. d=Su Santidad.
+t.=tomus. . ·
+V. 'A.=Vuestra Alteza. , ss ., v ’
+V. M. Vuestra Majestad. .
+V. m.‘=Vuestra merced.
+
+v. g. :verbi gratia.
+
+vol. :volumem
+
+V. P. =Vuestra Paternidad..
+
+V. R. ...N uestra Revereneia.
+X.0, Xpo.=Chr‚isto.
+Xpiano.==christiano.
+Xpoua1.'=Christ6bal.
+
+ 
+
